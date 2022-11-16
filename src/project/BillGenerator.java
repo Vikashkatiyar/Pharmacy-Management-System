@@ -27,7 +27,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Rahul
+ * @author Vikash Katiyar
  */
 public class BillGenerator extends javax.swing.JFrame {
     JFrame jf;
