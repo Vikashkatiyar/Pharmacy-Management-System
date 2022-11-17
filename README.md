@@ -11,7 +11,7 @@ it is a desktop application using  core java technology with swing framework.
 6.give proper bill amount<br>
 7.give alerts on medicine drought
 
-<h1>=============================================<h1>
+<h1>=====================================<h1>
 
 #Login Window
 ![login form](https://user-images.githubusercontent.com/89769715/202578732-dc08ddb9-c5c7-4a8f-ad63-5ebddf08f5f7.jpg)
